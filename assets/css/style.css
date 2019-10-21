@@ -744,7 +744,7 @@ textarea{
   /************** Responsive  *****************************/
   @media (min-width:1200px){
     .MemberImg{
-        height:60%;
+        height:50%;
     }
   }
 @media (min-width: 768px) and (max-width: 991px) {
